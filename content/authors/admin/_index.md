@@ -3,6 +3,7 @@ title: Irvin Oh, MD, FAAOS
 role: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of
   Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical
   Affairs, Orthopaedics & Rehabilitation
+avatar_filename: img_5293.jpg
 bio: ""
 interests:
   - Artificial Intelligence
